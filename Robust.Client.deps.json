@@ -92,12 +92,12 @@
           "runtimes/win-x64/native/libsodium.dll": {
             "rid": "win-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "1.0.18.0"
           },
           "runtimes/win-x86/native/libsodium.dll": {
             "rid": "win-x86",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "1.0.18.0"
           }
         }
       },
@@ -405,7 +405,7 @@
           "runtimes/win-x64/native/zlib1.dll": {
             "rid": "win-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "1.2.11.0"
           }
         }
       },
@@ -414,22 +414,22 @@
           "runtimes/win-x64/native/fluidsynth.dll": {
             "rid": "win-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "2.1.0.0"
           },
           "runtimes/win-x64/native/libglib-2.0-0.dll": {
             "rid": "win-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "2.26.1.0"
           },
           "runtimes/win-x64/native/libgobject-2.0-0.dll": {
             "rid": "win-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "2.26.1.0"
           },
           "runtimes/win-x64/native/libgthread-2.0-0.dll": {
             "rid": "win-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "2.26.1.0"
           },
           "runtimes/win-x64/native/libinstpatch-2.dll": {
             "rid": "win-x64",
@@ -439,12 +439,12 @@
           "runtimes/win-x64/native/libintl-8.dll": {
             "rid": "win-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "0.18.1.0"
           },
           "runtimes/win-x64/native/libsndfile-1.dll": {
             "rid": "win-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "1.0.28.0"
           }
         }
       },
@@ -458,7 +458,7 @@
           "runtimes/win-x64/native/freetype6.dll": {
             "rid": "win-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "2.10.0.0"
           }
         }
       },
@@ -491,7 +491,7 @@
           "runtimes/win-x64/native/openal32.dll": {
             "rid": "win-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "1.20.1.0"
           }
         }
       },
@@ -554,7 +554,7 @@
           "runtimes/win-x64/native/zstd.dll": {
             "rid": "win-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "1.5.2.0"
           },
           "runtimes/win-x64/native/zstd.pdb": {
             "rid": "win-x64",
@@ -564,7 +564,7 @@
           "runtimes/win-x86/native/zstd.dll": {
             "rid": "win-x86",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "1.5.2.0"
           },
           "runtimes/win-x86/native/zstd.pdb": {
             "rid": "win-x86",
