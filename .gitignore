@@ -19,3 +19,4 @@ win-arm/
 win-arm64/
 win-x86/
 Content.Server/server_config_local.toml
+Content.Server/server_config.toml
