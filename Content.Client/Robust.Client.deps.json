@@ -7,9 +7,9 @@
   "targets": {
     ".NETCoreApp,Version=v9.0": {},
     ".NETCoreApp,Version=v9.0/win-x64": {
-      "Robust.Client/250.0.0": {
+      "Robust.Client/251.0.0": {
         "dependencies": {
-          "Avalonia.Base": "250.0.0",
+          "Avalonia.Base": "251.0.0",
           "DiscordRichPresence": "1.2.1.24",
           "JetBrains.Annotations": "2024.3.0",
           "Microsoft.Data.Sqlite.Core": "9.0.0",
@@ -20,8 +20,8 @@
           "OpenToolkit.GraphicsLibraryFramework": "1.0.0",
           "Robust.LoaderApi": "1.0.0",
           "Robust.Natives": "0.1.1",
-          "Robust.Shared": "250.0.0",
-          "Robust.Shared.Maths": "250.0.0",
+          "Robust.Shared": "251.0.0",
+          "Robust.Shared.Maths": "251.0.0",
           "SQLitePCLRaw.bundle_e_sqlite3": "2.1.10",
           "SixLabors.ImageSharp": "3.1.7",
           "SpaceWizards.Lidgren.Network": "1.0.0",
@@ -61,7 +61,7 @@
       "libsodium/1.0.18.2": {
         "native": {
           "runtimes/win-x64/native/libsodium.dll": {
-            "fileVersion": "1.0.18.0"
+            "fileVersion": "0.0.0.0"
           }
         }
       },
@@ -363,39 +363,39 @@
             "fileVersion": "0.0.0.0"
           },
           "runtimes/win-x64/native/zlib1.dll": {
-            "fileVersion": "1.2.11.0"
+            "fileVersion": "0.0.0.0"
           }
         }
       },
       "Robust.Natives.Fluidsynth/0.1.0": {
         "native": {
           "runtimes/win-x64/native/fluidsynth.dll": {
-            "fileVersion": "2.1.0.0"
+            "fileVersion": "0.0.0.0"
           },
           "runtimes/win-x64/native/libglib-2.0-0.dll": {
-            "fileVersion": "2.26.1.0"
+            "fileVersion": "0.0.0.0"
           },
           "runtimes/win-x64/native/libgobject-2.0-0.dll": {
-            "fileVersion": "2.26.1.0"
+            "fileVersion": "0.0.0.0"
           },
           "runtimes/win-x64/native/libgthread-2.0-0.dll": {
-            "fileVersion": "2.26.1.0"
+            "fileVersion": "0.0.0.0"
           },
           "runtimes/win-x64/native/libinstpatch-2.dll": {
             "fileVersion": "0.0.0.0"
           },
           "runtimes/win-x64/native/libintl-8.dll": {
-            "fileVersion": "0.18.1.0"
+            "fileVersion": "0.0.0.0"
           },
           "runtimes/win-x64/native/libsndfile-1.dll": {
-            "fileVersion": "1.0.28.0"
+            "fileVersion": "0.0.0.0"
           }
         }
       },
       "Robust.Natives.Freetype/0.1.0": {
         "native": {
           "runtimes/win-x64/native/freetype6.dll": {
-            "fileVersion": "2.10.0.0"
+            "fileVersion": "0.0.0.0"
           }
         }
       },
@@ -409,7 +409,7 @@
       "Robust.Natives.OpenAL/0.1.0": {
         "native": {
           "runtimes/win-x64/native/openal32.dll": {
-            "fileVersion": "1.20.1.0"
+            "fileVersion": "0.0.0.0"
           }
         }
       },
@@ -448,7 +448,7 @@
         },
         "native": {
           "runtimes/win-x64/native/zstd.dll": {
-            "fileVersion": "1.5.2.0"
+            "fileVersion": "0.0.0.0"
           },
           "runtimes/win-x64/native/zstd.pdb": {
             "fileVersion": "0.0.0.0"
@@ -585,11 +585,11 @@
           }
         }
       },
-      "Avalonia.Base/250.0.0": {
+      "Avalonia.Base/251.0.0": {
         "runtime": {
           "Avalonia.Base.dll": {
-            "assemblyVersion": "250.0.0.0",
-            "fileVersion": "250.0.0.0"
+            "assemblyVersion": "251.0.0.0",
+            "fileVersion": "251.0.0.0"
           }
         }
       },
@@ -616,7 +616,7 @@
           }
         }
       },
-      "Robust.Shared/250.0.0": {
+      "Robust.Shared/251.0.0": {
         "dependencies": {
           "Linguini.Bundle": "0.8.1",
           "Microsoft.Extensions.ObjectPool": "9.0.0",
@@ -627,7 +627,7 @@
           "Pidgin": "3.3.0",
           "Robust.NetSerializer": "4.1.1",
           "Robust.Shared.AuthLib": "0.1.2",
-          "Robust.Shared.Maths": "250.0.0",
+          "Robust.Shared.Maths": "251.0.0",
           "Serilog": "4.2.0",
           "SharpZstd.Interop": "1.5.2-beta2",
           "SixLabors.ImageSharp": "3.1.7",
@@ -641,16 +641,16 @@
         },
         "runtime": {
           "Robust.Shared.dll": {
-            "assemblyVersion": "250.0.0.0",
-            "fileVersion": "250.0.0.0"
+            "assemblyVersion": "251.0.0.0",
+            "fileVersion": "251.0.0.0"
           }
         }
       },
-      "Robust.Shared.Maths/250.0.0": {
+      "Robust.Shared.Maths/251.0.0": {
         "runtime": {
           "Robust.Shared.Maths.dll": {
-            "assemblyVersion": "250.0.0.0",
-            "fileVersion": "250.0.0.0"
+            "assemblyVersion": "251.0.0.0",
+            "fileVersion": "251.0.0.0"
           }
         }
       },
@@ -680,7 +680,7 @@
     }
   },
   "libraries": {
-    "Robust.Client/250.0.0": {
+    "Robust.Client/251.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1119,7 +1119,7 @@
       "path": "yamldotnet/16.3.0",
       "hashPath": "yamldotnet.16.3.0.nupkg.sha512"
     },
-    "Avalonia.Base/250.0.0": {
+    "Avalonia.Base/251.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1139,12 +1139,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Robust.Shared/250.0.0": {
+    "Robust.Shared/251.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Robust.Shared.Maths/250.0.0": {
+    "Robust.Shared.Maths/251.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
