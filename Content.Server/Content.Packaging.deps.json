@@ -20,7 +20,7 @@
       "libsodium/1.0.18.2": {
         "native": {
           "runtimes/win-x64/native/libsodium.dll": {
-            "fileVersion": "1.0.18.0"
+            "fileVersion": "0.0.0.0"
           }
         }
       },
@@ -252,7 +252,7 @@
         },
         "native": {
           "runtimes/win-x64/native/zstd.dll": {
-            "fileVersion": "1.5.2.0"
+            "fileVersion": "0.0.0.0"
           },
           "runtimes/win-x64/native/zstd.pdb": {
             "fileVersion": "0.0.0.0"

@@ -57,7 +57,7 @@
       "libsodium/1.0.18.2": {
         "native": {
           "runtimes/win-x64/native/libsodium.dll": {
-            "fileVersion": "1.0.18.0"
+            "fileVersion": "0.0.0.0"
           }
         }
       },
@@ -939,7 +939,7 @@
         },
         "native": {
           "runtimes/win-x64/native/zstd.dll": {
-            "fileVersion": "1.5.2.0"
+            "fileVersion": "0.0.0.0"
           },
           "runtimes/win-x64/native/zstd.pdb": {
             "fileVersion": "0.0.0.0"
@@ -1133,7 +1133,7 @@
         "runtime": {
           "runtimes/win/lib/net8.0/System.Diagnostics.EventLog.Messages.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "8.0.23.53103"
           },
           "runtimes/win/lib/net8.0/System.Diagnostics.EventLog.dll": {
             "assemblyVersion": "8.0.0.0",
